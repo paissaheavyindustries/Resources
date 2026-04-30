@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Blueprint>
 	<Regions>
-		<Region Name="EN/DE/FR/JP" Version="2026.04.10.0000.0001">
+		<Region Name="EN/DE/FR/JP" Version="2026.04.21.0000.0000">
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="279" />
 				<Opcode Name="StatusEffectList2" Id="988" />
@@ -22,7 +22,7 @@
 				<Opcode Name="EventPlay64" Id="0" />
 			</Opcodes>
 		</Region>
-		<Region Name="CN" Version="2026.04.10.0000.0001">
+		<Region Name="CN" Version="2026.04.21.0000.0000">
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="279" />
 				<Opcode Name="StatusEffectList2" Id="988" />
@@ -43,7 +43,7 @@
 				<Opcode Name="EventPlay64" Id="0" />
 			</Opcodes>
 		</Region>
-		<Region Name="KR" Version="2026.04.10.0000.0001">
+		<Region Name="KR" Version="2026.04.21.0000.0000">
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="279" />
 				<Opcode Name="StatusEffectList2" Id="988" />
